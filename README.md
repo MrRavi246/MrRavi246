@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with **React and Node.js**
 - 💬 Ask me about **JavaScript, C#, and Web Development**
 - 📫 How to reach me: [rsardhara451@rku.ac.in](mailto:rsardhara451@rku.ac.in)
-- ⚡ Fun fact: I love solving puzzles and playing chess!
+- ⚡ Fun fact: I love solving puzzles and playing Games!
 
 ## GitHub Stats
 
@@ -22,9 +22,9 @@
 
 ## Recent Projects
 
-- [Project 1](https://github.com/Kishan-Ramani26/PHP-8.4_Project) - PHP-8.4 project with [@Kishan-Ramani26](https://github.com/Kishan-Ramani26/)
-- [Project 2](https://github.com/MrRavi246/project2) - Description of project 2
-- [Project 3](https://github.com/MrRavi246/project3) - Description of project 3
+
+- [Advance Java](https://github.com/MrRavi246/Advance-Java) - Web Devlopment using Java
+- [PHP Project](https://github.com/Kishan-Ramani26/PHP-8.4_Project) - PHP-8.4 project with [@Kishan-Ramani26](https://github.com/Kishan-Ramani26/)
 
 ## Support My Work
 
