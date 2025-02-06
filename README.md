@@ -22,7 +22,7 @@
 
 ## Recent Projects
 
-- [Project 1](https://github.com/MrRavi246/project1) - Description of project 1
+- [Project 1](https://github.com/Kishan-Ramani26/PHP-8.4_Project) - PHP-8.4 project with [@Kishan-Ramani26](https://github.com/Kishan-Ramani26/)
 - [Project 2](https://github.com/MrRavi246/project2) - Description of project 2
 - [Project 3](https://github.com/MrRavi246/project3) - Description of project 3
 
