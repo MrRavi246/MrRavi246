@@ -56,7 +56,7 @@
 </td>
 </tr>
 </table>
-
+https://github-profile-trophy.vercel.app/?MrRavi246=ryo-ma&no-bg=true
 <!-- Row 3: Activity Graph -->
 ![Ravi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRavi246&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
 
