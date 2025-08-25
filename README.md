@@ -19,19 +19,40 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Row 1: Stats + Top Languages -->
+<table>
+<tr>
+<td>
+  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrRavi246&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000)
 
-<!-- Top Languages -->
+</td>
+<td>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRavi246&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)
 
-<!-- Streak Stats -->
+</td>
+</tr>
+</table>
+
+<!-- Row 2: Streak + Trophy -->
+<table>
+<tr>
+<td>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrRavi246&theme=black-ice&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=000000&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&no-frame=true&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/ryo-ma/github-profile-trophy)
+</td>
+<td>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&no-frame=true&row=2&column=3&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/ryo-ma/github-profile-trophy)
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ## Projects
 - [**EduErp---ASP.NET**](https://github.com/MrRavi246/EduErp---ASP.NET)
