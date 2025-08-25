@@ -16,10 +16,11 @@
 - Interests: Web Development, Learning New Technologies
 
 ## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MrRavi246)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRavi246)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246)](https://github.com/MrRavi246)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MrRavi246)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MrRavi246&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRavi246&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&no-frame=true&no-bg=true&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/MrRavi246)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrRavi246&theme=black-ice&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=000000&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
+
 
 ## Projects
 - [**EduErp---ASP.NET**](https://github.com/MrRavi246/EduErp---ASP.NET)
