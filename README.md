@@ -15,12 +15,23 @@
 - Libraries & Tools: ASP.NET
 - Interests: Web Development, Learning New Technologies
 
-## GitHub Stats
+## GitHub Stats  
+
+<div align="center">
+
+<!-- GitHub Stats -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrRavi246&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000)
+
+<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRavi246&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&no-frame=true&no-bg=true&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/MrRavi246)
+
+<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrRavi246&theme=black-ice&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=000000&stroke=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&no-frame=true&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ## Projects
 - [**EduErp---ASP.NET**](https://github.com/MrRavi246/EduErp---ASP.NET)
