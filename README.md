@@ -50,7 +50,8 @@
 </td>
 <td>
 
-![[trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&no-frame=true&row=2&column=3&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246&theme=onestar&no-frame=true&row=2&column=3&title_color=00BFFF&text_color=FFFFFF&bg_color=000000)
+
 
 
 </td>
