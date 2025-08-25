@@ -4,27 +4,26 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Full-Stack Development**
-- 🔭 I’m working on various **Open Source Projects**
-- 🤔 I’m looking for help with **React and Node.js**
-- 💬 Ask me about **JavaScript, C#, and Web Development**
+- 🌱 I'm a student passionate about web development.
+- 🔭 I'm currently exploring technologies like ASP.NET, C#, JavaScript, HTML, and CSS.
+- 🤔 My GitHub presence reflects my phase of skill exploration and experimentation.
 - 📫 How to reach me: [rsardhara451@rku.ac.in](mailto:rsardhara451@rku.ac.in)
-- ⚡ Fun fact: I love solving puzzles and playing Games!
+- ⚡ Fun fact: "There are two ways to write error-free programs; only the third one works"
+  
+## Skills
+- Languages: HTML, CSS, JavaScript, C#
+- Libraries & Tools: ASP.NET
+- Interests: Web Development, Learning New Technologies
 
 ## GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MrRavi246)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRavi246)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrRavi246)](https://github.com/MrRavi246)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrRavi246)](https://git.io/streak-stats)
 
-![MrRavi246's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRavi246&show_icons=true&theme=radical)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mrravi246)](https://www.linkedin.com/in/mrravi246)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MrRavi246)](https://twitter.com/MrRavi246)
-
-## Recent Projects
-
-
-- [Advance Java](https://github.com/MrRavi246/Advance-Java) - Web Devlopment using Java
-- [PHP Project](https://github.com/Kishan-Ramani26/PHP-8.4_Project) - PHP-8.4 project with [@Kishan-Ramani26](https://github.com/Kishan-Ramani26/)
+## Projects
+- [**EduErp---ASP.NET**](https://github.com/MrRavi246/EduErp---ASP.NET)
+- [**Nexo-Banking**](https://github.com/MrRavi246/Nexo-Banking)
 
 ## Support My Work
 
