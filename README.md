@@ -15,7 +15,7 @@
 ## Skills  
 
 - **Languages:** HTML, CSS, JavaScript, C#  
-- **Libraries & Tools:** ASP.NET  
+- **Libraries & Tools:** ASP.NET
 - **Interests:** Web Development, Learning New Technologies  
 
 ---
