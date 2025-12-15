@@ -58,12 +58,6 @@
 </tr>
 </table>
 
-<!-- Row 3: Activity Graph -->
-![Ravi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrRavi246&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
-
-<!-- Row 4: Snake Animation -->
-![snake gif](https://github.com/MrRavi246/MrRavi246/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
